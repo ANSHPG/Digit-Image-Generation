@@ -32,6 +32,7 @@ The project repository, meticulously curated and nurtured by Anshuman Pattnaik, 
 Conclusion:
 In the crucible of exploration and innovation, this project stands as a testament to the indomitable spirit of human ingenuity. Through the meticulous orchestration of image processing techniques, dataset creation, and algorithmic synthesis, it embarks on a voyage of discovery, unraveling the mysteries of image generation and data representation. By embracing a philosophy of autonomy and creativity, it inspires future generations of scholars and enthusiasts to chart their own course, forging pathways of discovery and innovation in the boundless realm of image processing.
 
+![OpenCV_Logo_with_text_svg_version](https://github.com/ANSHPG/Digit-Image-Generation/assets/132222062/dfcf7691-f4d2-40cd-bad6-41856b92ebae)
 
 
 
