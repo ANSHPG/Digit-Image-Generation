@@ -1,4 +1,4 @@
-![OpenCV_Logo_with_text_svg_version](https://github.com/ANSHPG/Digit-Image-Generation/assets/132222062/dfcf7691-f4d2-40cd-bad6-41856b92ebae)# Digit-Image-Generation
+# Digit-Image-Generation
 
 ![GENERATED-IMAGE](https://github.com/ANSHPG/Digit-Image-Generation/assets/132222062/c40aba95-e05c-43c4-b889-4c5723d304cd)
 
