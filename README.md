@@ -1,4 +1,4 @@
-# Digit-Image-Generation
+# Exploration-in-Image-Processing-Digit-Image-Generation
 
 ![GENERATED-IMAGE](https://github.com/ANSHPG/Digit-Image-Generation/assets/132222062/c40aba95-e05c-43c4-b889-4c5723d304cd)
 
